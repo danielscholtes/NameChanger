@@ -1,0 +1,11 @@
+name: NameChanger
+author: Scholtes
+version: 1.0
+description: NameChanger plugin
+main: me.scholtes.namechanger.NameChanger
+api-version: 1.14
+depend: [ProtocolLib]
+
+commands:
+  togglename:
+    description: Toggles your name visibility
